@@ -1,0 +1,10 @@
+span {
+  display: block;
+  width: 0;
+  height: 40px;
+  border: 30px solid transparent;
+  border-top-color: rebeccapurple;
+  margin-left: 160px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
